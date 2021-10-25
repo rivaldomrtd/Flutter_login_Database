@@ -23,5 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 - Buat file koneksi dan post databse menggunakan php
   file `login.php` dan `register.php`.
 - Taruh folder 2 file terserbut di folder server anda =>XAMPP (C:\xampp\htdocs\NAMA_FOLDER)
-- konfigurasi `pubec.yaml`
+- konfigurasi `pubspec.yaml`
 - Dan rubah konfigurasi domain anda.
