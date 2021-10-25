@@ -18,3 +18,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# -----------------------------------------------------------------------------------
+# Cara Menggunakan
+- Buat file koneksi dan post databse menggunakan php
+  file `login.php` dan `register.php`.
+- Taruh folder 2 file terserbut di folder server anda =>XAMPP (C:\xampp\htdocs\NAMA_FOLDER)
+- konfigurasi `pubec.yaml`
+- Dan rubah konfigurasi domain anda.
